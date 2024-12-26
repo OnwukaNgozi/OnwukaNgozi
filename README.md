@@ -13,6 +13,6 @@ I'm a Cloud Engineer, and data analyst, who is passionate about exchanging knowl
 - 🌱 I’m currently learning Scripting, Cloud Computing, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Data Engineer, Cloud Support Engineer, Cloud Automation Engineer (Intern or Junior level).
-- 📫 You can [view my resume]([#])(https://drive.google.com/file/d/1MceZYpkT8900S1axzJ9MSZfY8I3xtCko/view?usp=drive_link) and contact me by emailing emeldanzingo@gmail.com.
+- 📫 You can [view my resume]([[#](https://drive.google.com/file/d/1MceZYpkT8900S1axzJ9MSZfY8I3xtCko/view?usp=drive_link)]) and contact me by emailing emeldanzingo@gmail.com.
 
 ---

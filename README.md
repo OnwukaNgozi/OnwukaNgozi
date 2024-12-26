@@ -9,7 +9,7 @@ I'm a Cloud Engineer, and data analyst, who is passionate about exchanging knowl
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Data](https://altschoolafrica.com/schools/data) Class of 2024, after graduating from [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 🌱 I’m currently learning Scripting, Cloud Computing, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Data Engineer, Cloud Support Engineer, Cloud Automation Engineer (Intern or Junior level).
